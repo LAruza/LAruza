@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... coding playing vibin etc.
 - 🌱 I’m currently learning ... Python pro
 - 💞️ I’m looking to collaborate on ... with my friends
-- 📫 How to reach me ... aktaseymen060@gmail.com or therealaruza (discord)
+- 📫 How to reach me ... mamayda (discord)
 
 <!---
 LAruza/LAruza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
