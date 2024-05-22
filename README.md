@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LAruza
 - 👀 I’m interested in ... coding playing vibin etc.
-- 🌱 I’m currently learning ... Python pro
+- 🌱 I’m currently learning ... Python pro (done) Modeling pro (learning now)
 - 💞️ I’m looking to collaborate on ... with my friends
 - 📫 How to reach me ... mamayda (discord)
 
